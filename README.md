@@ -60,3 +60,11 @@ The project involves the following steps:
   -The shapes of the training and testing sets, as well as the class distribution in the training set, are printed to provide insights into the final dataset.
    Dependencies
 
+### Explanation:
+- The description provides a brief overview of the dataset and what the project aims to achieve.
+- Steps of the project are clearly outlined with explanations of data preprocessing and modeling.
+- Usage instructions and installation requirements are included to ensure that others can run the project.
+- A conclusion section summarizes the project and the models used.
+
+
+
